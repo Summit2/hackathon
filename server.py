@@ -2,10 +2,10 @@ from flask import Flask, request, jsonify
 import json
 from linear_regression import MyLinearRegression
 import numpy as np
-
+from model_get_dishes import best_dishes
 app = Flask(__name__)
 
-# Load model weights
+
 model_get_jogging_calories = MyLinearRegression()
 with open("model_jogging_calories.json", "r") as json_file:
     data = json.load(json_file)
@@ -13,7 +13,9 @@ model_get_jogging_calories.weights = data['weights']
 
 
 @app.route('/methods/get_calories', methods=['POST'])
-def handle_data():
+def get_calories():
+
+
     '''
     Input format - {
         "sex": "M" or "F",
@@ -82,6 +84,51 @@ def handle_data():
     print(result["calories"])
    
     return jsonify(result)
+
+
+@app.route('/methods/get_dishes', methods=['POST'])
+def get_dishes():
+    '''
+    returns something like that
+    {
+    "Breakfast": {
+        "calories": 200,
+        "carbohydrates": 25,
+        "dish_name": "Творог с медом и ягодами",
+        "fat": 5,
+        "meal_type": "Breakfast",
+        "protein": 12
+    },
+    "Dinner": {
+        "calories": 550,
+        "carbohydrates": 60,
+        "dish_name": "Курица с карри и рисом",
+        "fat": 25,
+        "meal_type": "Dinner",
+        "protein": 40
+    },
+    "Lunch": {
+        "calories": 350,
+        "carbohydrates": 40,
+        "dish_name": "Куриное филе с гречкой",
+        "fat": 10,
+        "meal_type": "Lunch",
+        "protein": 40
+    }
+}
+    '''
+    data = request.json
+    calories = data.get('Calories', 0)
+    proteins = data.get('Proteins', 0)
+    fat = data.get('Fat', 0)
+    carbohydrates = data.get('Carbohydrates', 0)
+
+    if calories <= 0 or proteins <= 0 or fat <= 0 or carbohydrates <= 0:
+        return jsonify({"error": "Each nutrient value should be more than zero"}), 400
+
+   
+    dishes = best_dishes(calories, proteins, fat, carbohydrates)
+    return jsonify(dishes)
 
 if __name__ == '__main__':
     app.run(debug=True)

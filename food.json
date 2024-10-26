@@ -1,0 +1,602 @@
+[
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Овсянка с фруктами",
+        "calories": 150,
+        "protein": 5,
+        "fat": 3,
+        "carbohydrates": 27
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Яичница с овощами",
+        "calories": 200,
+        "protein": 14,
+        "fat": 16,
+        "carbohydrates": 2
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Тост с авокадо",
+        "calories": 250,
+        "protein": 6,
+        "fat": 15,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Панкейки с медом",
+        "calories": 300,
+        "protein": 7,
+        "fat": 9,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Каша рисовая с молоком",
+        "calories": 200,
+        "protein": 4,
+        "fat": 6,
+        "carbohydrates": 32
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Смузи с ягодами",
+        "calories": 180,
+        "protein": 2,
+        "fat": 1,
+        "carbohydrates": 38
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Чиабатта с сыром",
+        "calories": 220,
+        "protein": 10,
+        "fat": 7,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Кефир с орехами",
+        "calories": 200,
+        "protein": 8,
+        "fat": 10,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Яблочный пирог",
+        "calories": 350,
+        "protein": 4,
+        "fat": 15,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Куриное филе с гречкой",
+        "calories": 350,
+        "protein": 40,
+        "fat": 10,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Салат Цезарь",
+        "calories": 400,
+        "protein": 25,
+        "fat": 30,
+        "carbohydrates": 10
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Суп из чечевицы",
+        "calories": 300,
+        "protein": 18,
+        "fat": 5,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Стейк из говядины с картофелем",
+        "calories": 600,
+        "protein": 50,
+        "fat": 35,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Капустный салат с курицей",
+        "calories": 250,
+        "protein": 30,
+        "fat": 12,
+        "carbohydrates": 15
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Фрикадельки с макаронами",
+        "calories": 500,
+        "protein": 25,
+        "fat": 20,
+        "carbohydrates": 60
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Бургер с индейкой",
+        "calories": 450,
+        "protein": 30,
+        "fat": 25,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Лосось с картофельным пюре",
+        "calories": 600,
+        "protein": 40,
+        "fat": 30,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Куриный бульон с лапшой",
+        "calories": 250,
+        "protein": 20,
+        "fat": 10,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Курица с карри и рисом",
+        "calories": 550,
+        "protein": 40,
+        "fat": 25,
+        "carbohydrates": 60
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Салат с тунцом",
+        "calories": 350,
+        "protein": 30,
+        "fat": 15,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Запеканка с брокколи",
+        "calories": 400,
+        "protein": 20,
+        "fat": 15,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Овощное рагу",
+        "calories": 450,
+        "protein": 10,
+        "fat": 5,
+        "carbohydrates": 80
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Свинина с капустой",
+        "calories": 500,
+        "protein": 30,
+        "fat": 30,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Рис с морепродуктами",
+        "calories": 450,
+        "protein": 25,
+        "fat": 15,
+        "carbohydrates": 65
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Французские тосты",
+        "calories": 350,
+        "protein": 8,
+        "fat": 10,
+        "carbohydrates": 60
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Фруктовый салат",
+        "calories": 150,
+        "protein": 2,
+        "fat": 0,
+        "carbohydrates": 36
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Салат с курицей-гриль",
+        "calories": 300,
+        "protein": 35,
+        "fat": 10,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Овощное рагу",
+        "calories": 400,
+        "protein": 15,
+        "fat": 10,
+        "carbohydrates": 60
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Паста примавера",
+        "calories": 500,
+        "protein": 18,
+        "fat": 15,
+        "carbohydrates": 75
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Салат из нута",
+        "calories": 350,
+        "protein": 20,
+        "fat": 10,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Фаршированные перцы",
+        "calories": 450,
+        "protein": 25,
+        "fat": 15,
+        "carbohydrates": 60
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Запеченная паста",
+        "calories": 600,
+        "protein": 30,
+        "fat": 20,
+        "carbohydrates": 80
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Жаркое из говядины",
+        "calories": 500,
+        "protein": 40,
+        "fat": 25,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Тако с креветками",
+        "calories": 450,
+        "protein": 30,
+        "fat": 15,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Блины с вареньем",
+        "calories": 300,
+        "protein": 8,
+        "fat": 10,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Гречка с яйцом",
+        "calories": 220,
+        "protein": 10,
+        "fat": 7,
+        "carbohydrates": 36
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Мюсли с йогуртом",
+        "calories": 250,
+        "protein": 9,
+        "fat": 6,
+        "carbohydrates": 43
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Сырники со сметаной",
+        "calories": 400,
+        "protein": 15,
+        "fat": 20,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Творог с медом и ягодами",
+        "calories": 200,
+        "protein": 12,
+        "fat": 5,
+        "carbohydrates": 25
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Рис с курицей",
+        "calories": 450,
+        "protein": 35,
+        "fat": 15,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Спагетти болоньезе",
+        "calories": 600,
+        "protein": 30,
+        "fat": 25,
+        "carbohydrates": 80
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Чили с мясом",
+        "calories": 500,
+        "protein": 30,
+        "fat": 20,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Овощной суп с фрикадельками",
+        "calories": 300,
+        "protein": 20,
+        "fat": 10,
+        "carbohydrates": 35
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Салат с киноа",
+        "calories": 350,
+        "protein": 12,
+        "fat": 8,
+        "carbohydrates": 45
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Куриные котлеты с картошкой",
+        "calories": 550,
+        "protein": 30,
+        "fat": 25,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Лазанья с мясом",
+        "calories": 700,
+        "protein": 40,
+        "fat": 30,
+        "carbohydrates": 80
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Пирог с курицей",
+        "calories": 400,
+        "protein": 25,
+        "fat": 15,
+        "carbohydrates": 45
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Тайский салат с креветками",
+        "calories": 400,
+        "protein": 25,
+        "fat": 20,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Курица по-азиатски",
+        "calories": 600,
+        "protein": 45,
+        "fat": 25,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Лосось на гриле",
+        "calories": 500,
+        "protein": 35,
+        "fat": 20,
+        "carbohydrates": 0
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Стейк с картофельным пюре",
+        "calories": 700,
+        "protein": 50,
+        "fat": 40,
+        "carbohydrates": 60
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Курица с грибами",
+        "calories": 550,
+        "protein": 40,
+        "fat": 30,
+        "carbohydrates": 25
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Запеченные овощи с сыром",
+        "calories": 400,
+        "protein": 15,
+        "fat": 20,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Паста с морепродуктами",
+        "calories": 600,
+        "protein": 35,
+        "fat": 25,
+        "carbohydrates": 70
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Филе индейки с картошкой",
+        "calories": 500,
+        "protein": 40,
+        "fat": 15,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Тушеная говядина с овощами",
+        "calories": 600,
+        "protein": 50,
+        "fat": 30,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Тост с яйцом",
+        "calories": 220,
+        "protein": 12,
+        "fat": 10,
+        "carbohydrates": 25
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Пшенная каша с тыквой",
+        "calories": 200,
+        "protein": 6,
+        "fat": 4,
+        "carbohydrates": 36
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Суп с яичницей",
+        "calories": 250,
+        "protein": 12,
+        "fat": 10,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Коктейль из банана и молока",
+        "calories": 150,
+        "protein": 4,
+        "fat": 2,
+        "carbohydrates": 28
+    },
+    {
+        "meal_type": "Breakfast",
+        "dish_name": "Пирожки с капустой",
+        "calories": 300,
+        "protein": 8,
+        "fat": 15,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Рататуй",
+        "calories": 250,
+        "protein": 5,
+        "fat": 10,
+        "carbohydrates": 35
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Фасоль с овощами",
+        "calories": 350,
+        "protein": 20,
+        "fat": 10,
+        "carbohydrates": 55
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Пирог с грибами",
+        "calories": 400,
+        "protein": 15,
+        "fat": 20,
+        "carbohydrates": 35
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Салат с лососем",
+        "calories": 500,
+        "protein": 30,
+        "fat": 25,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Суп с рыбой",
+        "calories": 300,
+        "protein": 20,
+        "fat": 5,
+        "carbohydrates": 40
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Салат с авокадо и крабами",
+        "calories": 400,
+        "protein": 20,
+        "fat": 20,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Блинчики с мясом",
+        "calories": 500,
+        "protein": 25,
+        "fat": 20,
+        "carbohydrates": 50
+    },
+    {
+        "meal_type": "Lunch",
+        "dish_name": "Запеченные овощи",
+        "calories": 250,
+        "protein": 5,
+        "fat": 5,
+        "carbohydrates": 45
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Курица с медом и горчицей",
+        "calories": 550,
+        "protein": 40,
+        "fat": 30,
+        "carbohydrates": 25
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Суп-пюре из цветной капусты",
+        "calories": 300,
+        "protein": 10,
+        "fat": 5,
+        "carbohydrates": 30
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Гречка с грибами",
+        "calories": 450,
+        "protein": 15,
+        "fat": 10,
+        "carbohydrates": 65
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Куриные крылышки",
+        "calories": 600,
+        "protein": 35,
+        "fat": 40,
+        "carbohydrates": 20
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Фаршированная рыба",
+        "calories": 500,
+        "protein": 30,
+        "fat": 25,
+        "carbohydrates": 35
+    },
+    {
+        "meal_type": "Dinner",
+        "dish_name": "Курица с овощами в соусе терияки",
+        "calories": 600,
+        "protein": 40,
+        "fat": 25,
+        "carbohydrates": 60
+    }
+]
