@@ -5,7 +5,8 @@
         "calories": 150,
         "protein": 5,
         "fat": 3,
-        "carbohydrates": 27
+        "carbohydrates": 27,
+        "image_url": "https://example.com/images/овсянка_с_фруктами.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -13,7 +14,8 @@
         "calories": 200,
         "protein": 14,
         "fat": 16,
-        "carbohydrates": 2
+        "carbohydrates": 2,
+        "image_url": "https://example.com/images/яичница_с_овощами.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -21,7 +23,8 @@
         "calories": 250,
         "protein": 6,
         "fat": 15,
-        "carbohydrates": 30
+        "carbohydrates": 30,
+        "image_url": "https://example.com/images/toст_с_авокадо.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -29,7 +32,8 @@
         "calories": 300,
         "protein": 7,
         "fat": 9,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/панкейки_с_медом.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -37,7 +41,8 @@
         "calories": 200,
         "protein": 4,
         "fat": 6,
-        "carbohydrates": 32
+        "carbohydrates": 32,
+        "image_url": "https://example.com/images/каша_рисовая_с_молоком.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -45,7 +50,8 @@
         "calories": 180,
         "protein": 2,
         "fat": 1,
-        "carbohydrates": 38
+        "carbohydrates": 38,
+        "image_url": "https://example.com/images/смузи_с_ягодами.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -53,7 +59,8 @@
         "calories": 220,
         "protein": 10,
         "fat": 7,
-        "carbohydrates": 30
+        "carbohydrates": 30,
+        "image_url": "https://example.com/images/чиабатта_с_сыром.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -61,7 +68,8 @@
         "calories": 200,
         "protein": 8,
         "fat": 10,
-        "carbohydrates": 20
+        "carbohydrates": 20,
+        "image_url": "https://example.com/images/кефир_с_орехами.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -69,7 +77,8 @@
         "calories": 350,
         "protein": 4,
         "fat": 15,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/яблочный_пирог.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -77,7 +86,8 @@
         "calories": 350,
         "protein": 40,
         "fat": 10,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/куриное_филе_с_гречкой.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -85,7 +95,8 @@
         "calories": 400,
         "protein": 25,
         "fat": 30,
-        "carbohydrates": 10
+        "carbohydrates": 10,
+        "image_url": "https://example.com/images/салат_цезарь.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -93,7 +104,8 @@
         "calories": 300,
         "protein": 18,
         "fat": 5,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/суп_из_чечевицы.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -101,7 +113,8 @@
         "calories": 600,
         "protein": 50,
         "fat": 35,
-        "carbohydrates": 20
+        "carbohydrates": 20,
+        "image_url": "https://example.com/images/стейк_из_говядины_с_картофелем.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -109,7 +122,8 @@
         "calories": 250,
         "protein": 30,
         "fat": 12,
-        "carbohydrates": 15
+        "carbohydrates": 15,
+        "image_url": "https://example.com/images/капустный_салат_с_курицей.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -117,7 +131,8 @@
         "calories": 500,
         "protein": 25,
         "fat": 20,
-        "carbohydrates": 60
+        "carbohydrates": 60,
+        "image_url": "https://example.com/images/фрикадельки_с_макаронами.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -125,7 +140,8 @@
         "calories": 450,
         "protein": 30,
         "fat": 25,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/бургер_с_индейкой.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -133,7 +149,8 @@
         "calories": 600,
         "protein": 40,
         "fat": 30,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/лосось_с_картофельным_пюре.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -141,7 +158,8 @@
         "calories": 250,
         "protein": 20,
         "fat": 10,
-        "carbohydrates": 30
+        "carbohydrates": 30,
+        "image_url": "https://example.com/images/куриный_бульон_с_лапшой.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -149,7 +167,8 @@
         "calories": 550,
         "protein": 40,
         "fat": 25,
-        "carbohydrates": 60
+        "carbohydrates": 60,
+        "image_url": "https://example.com/images/курица_с_карри_и_рисом.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -157,7 +176,8 @@
         "calories": 350,
         "protein": 30,
         "fat": 15,
-        "carbohydrates": 20
+        "carbohydrates": 20,
+        "image_url": "https://example.com/images/салат_с_тунцом.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -165,7 +185,8 @@
         "calories": 400,
         "protein": 20,
         "fat": 15,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/запеканка_с_брокколи.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -173,7 +194,8 @@
         "calories": 450,
         "protein": 10,
         "fat": 5,
-        "carbohydrates": 80
+        "carbohydrates": 80,
+        "image_url": "https://example.com/images/овощное_рагу.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -181,7 +203,8 @@
         "calories": 500,
         "protein": 30,
         "fat": 30,
-        "carbohydrates": 20
+        "carbohydrates": 20,
+        "image_url": "https://example.com/images/свинина_с_капустой.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -189,7 +212,8 @@
         "calories": 450,
         "protein": 25,
         "fat": 15,
-        "carbohydrates": 65
+        "carbohydrates": 65,
+        "image_url": "https://example.com/images/рис_с_морепродуктами.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -197,79 +221,26 @@
         "calories": 350,
         "protein": 8,
         "fat": 10,
-        "carbohydrates": 60
-    },
-    {
-        "meal_type": "Breakfast",
-        "dish_name": "Фруктовый салат",
-        "calories": 150,
-        "protein": 2,
-        "fat": 0,
-        "carbohydrates": 36
-    },
-    {
-        "meal_type": "Lunch",
-        "dish_name": "Салат с курицей-гриль",
-        "calories": 300,
-        "protein": 35,
-        "fat": 10,
-        "carbohydrates": 20
-    },
-    {
-        "meal_type": "Lunch",
-        "dish_name": "Овощное рагу",
-        "calories": 400,
-        "protein": 15,
-        "fat": 10,
-        "carbohydrates": 60
-    },
-    {
-        "meal_type": "Lunch",
-        "dish_name": "Паста примавера",
-        "calories": 500,
-        "protein": 18,
-        "fat": 15,
-        "carbohydrates": 75
-    },
-    {
-        "meal_type": "Lunch",
-        "dish_name": "Салат из нута",
-        "calories": 350,
-        "protein": 20,
-        "fat": 10,
-        "carbohydrates": 50
+        "carbohydrates": 55,
+        "image_url": "https://example.com/images/французские_тосты.jpg"
     },
     {
         "meal_type": "Dinner",
-        "dish_name": "Фаршированные перцы",
-        "calories": 450,
-        "protein": 25,
-        "fat": 15,
-        "carbohydrates": 60
-    },
-    {
-        "meal_type": "Dinner",
-        "dish_name": "Запеченная паста",
+        "dish_name": "Паста с соусом альфредо",
         "calories": 600,
-        "protein": 30,
-        "fat": 20,
-        "carbohydrates": 80
+        "protein": 20,
+        "fat": 35,
+        "carbohydrates": 60,
+        "image_url": "https://example.com/images/паста_с_соусом_альфредо.jpg"
     },
     {
         "meal_type": "Dinner",
-        "dish_name": "Жаркое из говядины",
-        "calories": 500,
-        "protein": 40,
-        "fat": 25,
-        "carbohydrates": 30
-    },
-    {
-        "meal_type": "Dinner",
-        "dish_name": "Тако с креветками",
-        "calories": 450,
+        "dish_name": "Лазанья",
+        "calories": 650,
         "protein": 30,
-        "fat": 15,
-        "carbohydrates": 50
+        "fat": 40,
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/лазанья.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -277,7 +248,8 @@
         "calories": 300,
         "protein": 8,
         "fat": 10,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/блины_с_вареньем.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -285,7 +257,8 @@
         "calories": 220,
         "protein": 10,
         "fat": 7,
-        "carbohydrates": 36
+        "carbohydrates": 36,
+        "image_url": "https://example.com/images/гречка_с_яйцом.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -293,7 +266,8 @@
         "calories": 250,
         "protein": 9,
         "fat": 6,
-        "carbohydrates": 43
+        "carbohydrates": 43,
+        "image_url": "https://example.com/images/мюсли_с_йогуртом.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -301,7 +275,8 @@
         "calories": 400,
         "protein": 15,
         "fat": 20,
-        "carbohydrates": 30
+        "carbohydrates": 30,
+        "image_url": "https://example.com/images/сырники_со_сметаной.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -309,7 +284,8 @@
         "calories": 200,
         "protein": 12,
         "fat": 5,
-        "carbohydrates": 25
+        "carbohydrates": 25,
+        "image_url": "https://example.com/images/творог_с_медом_и_ягодами.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -317,7 +293,8 @@
         "calories": 450,
         "protein": 35,
         "fat": 15,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/рис_с_курицей.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -325,7 +302,8 @@
         "calories": 600,
         "protein": 30,
         "fat": 25,
-        "carbohydrates": 80
+        "carbohydrates": 80,
+        "image_url": "https://example.com/images/спагетти_болоньезе.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -333,7 +311,8 @@
         "calories": 500,
         "protein": 30,
         "fat": 20,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/чили_с_мясом.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -341,7 +320,8 @@
         "calories": 300,
         "protein": 20,
         "fat": 10,
-        "carbohydrates": 35
+        "carbohydrates": 35,
+        "image_url": "https://example.com/images/овощной_суп_с_фрикадельками.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -349,7 +329,8 @@
         "calories": 350,
         "protein": 12,
         "fat": 8,
-        "carbohydrates": 45
+        "carbohydrates": 45,
+        "image_url": "https://example.com/images/салат_с_киноа.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -357,7 +338,8 @@
         "calories": 550,
         "protein": 30,
         "fat": 25,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/куриные_котлеты_с_картошкой.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -365,7 +347,8 @@
         "calories": 700,
         "protein": 40,
         "fat": 30,
-        "carbohydrates": 80
+        "carbohydrates": 80,
+        "image_url": "https://example.com/images/лазанья_с_мясом.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -373,7 +356,8 @@
         "calories": 400,
         "protein": 25,
         "fat": 15,
-        "carbohydrates": 45
+        "carbohydrates": 45,
+        "image_url": "https://example.com/images/пирог_с_курицей.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -381,7 +365,8 @@
         "calories": 400,
         "protein": 25,
         "fat": 20,
-        "carbohydrates": 30
+        "carbohydrates": 30,
+        "image_url": "https://example.com/images/тайский_салат_с_креветками.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -389,7 +374,8 @@
         "calories": 600,
         "protein": 45,
         "fat": 25,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/курица_по_азиатски.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -397,7 +383,8 @@
         "calories": 500,
         "protein": 35,
         "fat": 20,
-        "carbohydrates": 0
+        "carbohydrates": 0,
+        "image_url": "https://example.com/images/лосось_на_гриле.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -405,7 +392,8 @@
         "calories": 700,
         "protein": 50,
         "fat": 40,
-        "carbohydrates": 60
+        "carbohydrates": 60,
+        "image_url": "https://example.com/images/стейк_с_картофельным_пюре.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -413,7 +401,8 @@
         "calories": 550,
         "protein": 40,
         "fat": 30,
-        "carbohydrates": 25
+        "carbohydrates": 25,
+        "image_url": "https://example.com/images/курица_с_грибами.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -421,7 +410,8 @@
         "calories": 400,
         "protein": 15,
         "fat": 20,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/запеченные_овощи_с_сыром.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -429,7 +419,8 @@
         "calories": 600,
         "protein": 35,
         "fat": 25,
-        "carbohydrates": 70
+        "carbohydrates": 70,
+        "image_url": "https://example.com/images/паста_с_морепродуктами.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -437,7 +428,8 @@
         "calories": 500,
         "protein": 40,
         "fat": 15,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/филе_индейки_с_картошкой.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -445,7 +437,8 @@
         "calories": 600,
         "protein": 50,
         "fat": 30,
-        "carbohydrates": 20
+        "carbohydrates": 20,
+        "image_url": "https://example.com/images/тушеная_говядина_с_овощами.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -453,7 +446,8 @@
         "calories": 220,
         "protein": 12,
         "fat": 10,
-        "carbohydrates": 25
+        "carbohydrates": 25,
+        "image_url": "https://example.com/images/toст_с_яйцом.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -461,15 +455,17 @@
         "calories": 200,
         "protein": 6,
         "fat": 4,
-        "carbohydrates": 36
+        "carbohydrates": 36,
+        "image_url": "https://example.com/images/пшенная_каша_с_тыквой.jpg"
     },
     {
         "meal_type": "Breakfast",
-        "dish_name": "Суп с яичницей",
+        "dish_name": "Макароны с молоком",
         "calories": 250,
         "protein": 12,
         "fat": 10,
-        "carbohydrates": 20
+        "carbohydrates": 20,
+        "image_url": "https://example.com/images/макароны_с_молоком.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -477,7 +473,8 @@
         "calories": 150,
         "protein": 4,
         "fat": 2,
-        "carbohydrates": 28
+        "carbohydrates": 28,
+        "image_url": "https://example.com/images/коктейль_из_банана_и_молока.jpg"
     },
     {
         "meal_type": "Breakfast",
@@ -485,7 +482,8 @@
         "calories": 300,
         "protein": 8,
         "fat": 15,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/пирожки_с_капустой.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -493,7 +491,8 @@
         "calories": 250,
         "protein": 5,
         "fat": 10,
-        "carbohydrates": 35
+        "carbohydrates": 35,
+        "image_url": "https://example.com/images/рататуй.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -501,7 +500,8 @@
         "calories": 350,
         "protein": 20,
         "fat": 10,
-        "carbohydrates": 55
+        "carbohydrates": 55,
+        "image_url": "https://example.com/images/фасоль_с_овощами.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -509,7 +509,8 @@
         "calories": 400,
         "protein": 15,
         "fat": 20,
-        "carbohydrates": 35
+        "carbohydrates": 35,
+        "image_url": "https://example.com/images/пирог_с_грибами.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -517,7 +518,8 @@
         "calories": 500,
         "protein": 30,
         "fat": 25,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/салат_с_лососем.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -525,7 +527,8 @@
         "calories": 300,
         "protein": 20,
         "fat": 5,
-        "carbohydrates": 40
+        "carbohydrates": 40,
+        "image_url": "https://example.com/images/суп_с_рыбой.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -533,7 +536,8 @@
         "calories": 400,
         "protein": 20,
         "fat": 20,
-        "carbohydrates": 30
+        "carbohydrates": 30,
+        "image_url": "https://example.com/images/салат_с_авокадо_и_крабами.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -541,7 +545,8 @@
         "calories": 500,
         "protein": 25,
         "fat": 20,
-        "carbohydrates": 50
+        "carbohydrates": 50,
+        "image_url": "https://example.com/images/блинчики_с_мясом.jpg"
     },
     {
         "meal_type": "Lunch",
@@ -549,7 +554,8 @@
         "calories": 250,
         "protein": 5,
         "fat": 5,
-        "carbohydrates": 45
+        "carbohydrates": 45,
+        "image_url": "https://example.com/images/запеченные_овощи.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -557,7 +563,8 @@
         "calories": 550,
         "protein": 40,
         "fat": 30,
-        "carbohydrates": 25
+        "carbohydrates": 25,
+        "image_url": "https://example.com/images/курица_с_медом_и_горчицей.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -565,7 +572,8 @@
         "calories": 300,
         "protein": 10,
         "fat": 5,
-        "carbohydrates": 30
+        "carbohydrates": 30,
+        "image_url": "https://example.com/images/суп-пюре_из_цветной_капусты.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -573,7 +581,8 @@
         "calories": 450,
         "protein": 15,
         "fat": 10,
-        "carbohydrates": 65
+        "carbohydrates": 65,
+        "image_url": "https://example.com/images/гречка_с_грибами.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -581,7 +590,8 @@
         "calories": 600,
         "protein": 35,
         "fat": 40,
-        "carbohydrates": 20
+        "carbohydrates": 20,
+        "image_url": "https://example.com/images/куриные_крылышки.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -589,7 +599,8 @@
         "calories": 500,
         "protein": 30,
         "fat": 25,
-        "carbohydrates": 35
+        "carbohydrates": 35,
+        "image_url": "https://example.com/images/фаршированная_рыба.jpg"
     },
     {
         "meal_type": "Dinner",
@@ -597,6 +608,7 @@
         "calories": 600,
         "protein": 40,
         "fat": 25,
-        "carbohydrates": 60
+        "carbohydrates": 60,
+        "image_url": "https://example.com/images/курица_с_овощами_в_соусе_терияки.jpg"
     }
 ]

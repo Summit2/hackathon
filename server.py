@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import json
 from linear_regression import MyLinearRegression
 import numpy as np
-from model_get_dishes import best_dishes
+from model_get_dishes import get_best_meal
 app = Flask(__name__)
 
 
@@ -118,17 +118,58 @@ def get_dishes():
 }
     '''
     data = request.json
-    calories = data.get('Calories', 0)
-    proteins = data.get('Proteins', 0)
-    fat = data.get('Fat', 0)
-    carbohydrates = data.get('Carbohydrates', 0)
-
+    calories = data.get('calories', 0)
+    proteins = data.get('protein', 0)
+    fat = data.get('fat', 0)
+    carbohydrates = data.get('carbohydrates', 0)
+    url = data.get('image_url', '')
+    print(url)
     if calories <= 0 or proteins <= 0 or fat <= 0 or carbohydrates <= 0:
         return jsonify({"error": "Each nutrient value should be more than zero"}), 400
 
    
-    dishes = best_dishes(calories, proteins, fat, carbohydrates)
+    # dishes = best_dishes(calories, proteins, fat, carbohydrates)
+    # print(dishes)
+    with open("food.json","r", encoding="utf-8") as f:
+        food_data = json.load(f)
+
+
+
+    item = np.array([calories, proteins, fat,  carbohydrates])
+
+    breakfast = []
+    lunch = []
+    dinner = []
+
+    print(food_data[0])
+    for i in range(len(food_data)):
+        
+        temp_food_data = [i, food_data[i][ "calories"],food_data[i][ "protein"],food_data[i][ "fat"] ,food_data[i][ "carbohydrates"] ]
+        if food_data[i]['meal_type'] == 'Breakfast' :
+            breakfast.append(temp_food_data   )
+        elif food_data[i]['meal_type'] == 'Dinner' :
+            dinner.append(temp_food_data)
+        elif food_data[i]['meal_type'] == 'Lunch' :
+            lunch.append(temp_food_data)
+
+
+
+    
+    
+    id_br = get_best_meal(item ,breakfast, 0.2)
+    id_lu = get_best_meal(item,lunch, 0.5)
+    id_di = get_best_meal(item, dinner, 0.3)
+
+    best_breakfast = 
+    best_lunch = 
+    best_dinner = 
+   
+    dishes =  {
+        'Breakfast' : breakfast[id_br],
+        'Lunch' : lunch[id_lu],
+        'Dinner' : dinner[id_di]
+    }
     return jsonify(dishes)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=8080,debug=True)
